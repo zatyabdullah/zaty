@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\metechuser\Documents\google-servicess\android\AndroidPushNotificationsUsingGCM\app\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="27c24d26e4c5d57976e6926367985548678e913c">
+        <dex dex="C:\Users\metechuser\Documents\google-servicess\android\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\android-support-v4-6aae4d81a48b526b6fdd1a4a7e4739355ec3a548.jar" />
+    </item>
+    <item
+        jar="C:\Users\metechuser\Documents\google-servicess\android\AndroidPushNotificationsUsingGCM\app\libs\gcm.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a6d7bce795a14c7f86111756c4ceb44b79de14aa">
+        <dex dex="C:\Users\metechuser\Documents\google-servicess\android\AndroidPushNotificationsUsingGCM\app\build\intermediates\pre-dexed\debug\gcm-65f87e8fb482e58d860fbd639ee98cab18256e18.jar" />
+    </item>
+
+</items>
