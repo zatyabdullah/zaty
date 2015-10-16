@@ -1,0 +1,12 @@
+CREATE TABLE IF NOT EXISTS `push_data` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `gcm_pyshid` text,
+  `title` varchar(150) NOT NULL,
+  `message` varchar(255) NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `sent` int(11) NOT NULL,
+  `received` int(11) NOT NULL,
+  `clicked` int(11) NOT NULL,
+    
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 AUTO_INCREMENT=1 ;
